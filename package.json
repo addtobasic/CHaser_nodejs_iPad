@@ -1,0 +1,19 @@
+{
+  "name": "chaser_nodejs_ipad",
+  "version": "1.0.0",
+  "description": "Node.js（v12.14）で動作するCHaserクライアントのモジュールです。",
+  "main": "CHaserClient.js",
+  "scripts": {
+    "start":"node sample.js bot 127.0.0.1 2009"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/addtobasic/CHaser_nodejs_ipad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/addtobasic/CHaser_nodejs_ipad/issues"
+  },
+  "homepage": "https://github.com/addtobasic/CHaser_nodejs_ipad#readme"
+}
